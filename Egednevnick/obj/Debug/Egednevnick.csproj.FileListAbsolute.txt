@@ -1,0 +1,7 @@
+C:\Users\Вика\source\repos\Egednevnick\Egednevnick\bin\Debug\Egednevnick.exe.config
+C:\Users\Вика\source\repos\Egednevnick\Egednevnick\bin\Debug\Egednevnick.exe
+C:\Users\Вика\source\repos\Egednevnick\Egednevnick\bin\Debug\Egednevnick.pdb
+C:\Users\Вика\source\repos\Egednevnick\Egednevnick\obj\Debug\Egednevnick.csproj.AssemblyReference.cache
+C:\Users\Вика\source\repos\Egednevnick\Egednevnick\obj\Debug\Egednevnick.csproj.CoreCompileInputs.cache
+C:\Users\Вика\source\repos\Egednevnick\Egednevnick\obj\Debug\Egednevnick.exe
+C:\Users\Вика\source\repos\Egednevnick\Egednevnick\obj\Debug\Egednevnick.pdb
