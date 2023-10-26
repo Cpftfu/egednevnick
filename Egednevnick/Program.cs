@@ -75,16 +75,16 @@ namespace Egednevnick
                             Console.Clear();
                             Console.WriteLine("наша дата:" + dataa);
                             Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
-                            Console.WriteLine("               ПОГУЛЯТЬ С ПИДРУЖКОЙ                 ");
+                            Console.WriteLine("                    ЛЕЧЬ ПОСПАТЬ                    ");
                             Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
-                            Console.WriteLine("описание: съездить с пидружкой в музей японских ретро тачек");
+                            Console.WriteLine("описание: оформить сладкий sleep");
                             Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
                             Console.WriteLine("дата, когда надо завершить:");
                             Console.WriteLine("10.10.2023");
                             Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
-                            Console.WriteLine("личный комментарий: в итоге поехали пить пиво");
+                            Console.WriteLine("личный комментарий: Z z Z");
+                    
                         }
-                    }
                 }
 
                 //это вторая заметка
