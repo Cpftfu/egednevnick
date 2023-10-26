@@ -83,10 +83,9 @@ namespace Egednevnick
                             Console.WriteLine("10.10.2023");
                             Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
                             Console.WriteLine("личный комментарий: Z z Z");
-                    
                         }
+                    }
                 }
-
                 //это вторая заметка
                 if (dataa.Day == 13)
                 {
